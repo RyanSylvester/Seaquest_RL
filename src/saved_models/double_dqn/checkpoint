@@ -1,0 +1,2 @@
+model_checkpoint_path: "sequest_target_action_value_network_ep40"
+all_model_checkpoint_paths: "sequest_target_action_value_network_ep40"
